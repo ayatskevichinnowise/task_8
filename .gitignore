@@ -1,5 +1,6 @@
 .env
 /snow_venv
+cleaning.py
 __pycache__/
 *.py[cod]
 *$py.class
